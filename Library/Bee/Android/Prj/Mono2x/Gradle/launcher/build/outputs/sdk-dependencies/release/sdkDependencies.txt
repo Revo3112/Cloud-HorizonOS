@@ -2,6 +2,14 @@
 # For more information visit: https://d.android.com/r/tools/dependency-metadata
 
 library {
+  maven_library {
+    artifactId: "mediapipe_android"
+  }
+  digests {
+    sha256: "h\262\252_V\367 u\245u7jX\004\226v\211\257\030\311\322\200\346\247\243\247\205Q\356\2636!"
+  }
+}
+library {
   digests {
     sha256: "\214f/m\260\016U\037\344\263PAjE\267h\3562W\375\314\320\216\344D\375\tmk]\360\244"
   }
@@ -9,6 +17,7 @@ library {
 module_dependencies {
   module_name: "base"
   dependency_index: 0
+  dependency_index: 1
 }
 repositories {
   maven_repo {

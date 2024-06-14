@@ -4,7 +4,8 @@ ADDED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradl
 INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
-MERGED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-79:12
+MERGED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-80:12
+MERGED from [:mediapipe_android:] C:\Users\ngrok\.gradle\caches\transforms-3\fd6544e9917d886ad2b8c4ed98de84c6\transformed\mediapipe_android\AndroidManifest.xml:2:1-11:12
 INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
@@ -28,10 +29,12 @@ INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gr
 		ADDED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:150-190
 application
 ADDED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
-MERGED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:5-77:19
-MERGED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:5-77:19
+MERGED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:5-78:19
+MERGED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:5-78:19
+MERGED from [:mediapipe_android:] C:\Users\ngrok\.gradle\caches\transforms-3\fd6544e9917d886ad2b8c4ed98de84c6\transformed\mediapipe_android\AndroidManifest.xml:9:5-20
+MERGED from [:mediapipe_android:] C:\Users\ngrok\.gradle\caches\transforms-3\fd6544e9917d886ad2b8c4ed98de84c6\transformed\mediapipe_android\AndroidManifest.xml:9:5-20
 	android:extractNativeLibs
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:18-50
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:18-50
 	android:label
 		ADDED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
 	android:icon
@@ -54,6 +57,8 @@ INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gr
 INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 MERGED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
 MERGED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:mediapipe_android:] C:\Users\ngrok\.gradle\caches\transforms-3\fd6544e9917d886ad2b8c4ed98de84c6\transformed\mediapipe_android\AndroidManifest.xml:5:5-7:41
+MERGED from [:mediapipe_android:] C:\Users\ngrok\.gradle\caches\transforms-3\fd6544e9917d886ad2b8c4ed98de84c6\transformed\mediapipe_android\AndroidManifest.xml:5:5-7:41
 INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -64,129 +69,133 @@ INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gr
 		INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 		ADDED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-64
 uses-permission#android.permission.CAMERA
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-65
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-65
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-62
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-62
 uses-feature#0x00030000
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-54
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-54
 	android:glEsVersion
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:19-51
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:19-51
 uses-feature#android.hardware.vulkan.version
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-15:36
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-16:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-33
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-55
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-55
 uses-feature#android.hardware.camera
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:5-18:36
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-19:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-33
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-47
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-47
 uses-feature#android.hardware.camera.autofocus
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:5-21:36
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:5-22:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-33
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-57
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:9-57
 uses-feature#android.hardware.camera.front
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:5-24:36
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:5-25:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:9-33
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:9-53
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:9-53
 uses-feature#android.hardware.touchscreen
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:5-27:36
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:5-28:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:9-33
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:9-52
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:9-52
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:5-30:36
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:5-31:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:9-33
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-63
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:9-63
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:5-33:36
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:5-34:36
 	android:required
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:9-33
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:9-72
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:9-72
 meta-data#unity.splash-mode
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:9-38:33
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:9-39:33
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-30
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:13-30
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:13-45
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-45
 meta-data#unity.splash-enable
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:9-41:36
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:9-42:36
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-33
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:13-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:13-47
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-47
 meta-data#unity.launch-fullscreen
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:9-44:36
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:9-45:36
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-33
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:13-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:13-51
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-51
 meta-data#unity.render-outside-safearea
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:9-47:36
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:9-48:36
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-33
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:13-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-57
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-57
 meta-data#notch.config
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:9-50:50
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:9-51:50
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-47
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:13-47
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-40
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-40
 meta-data#unity.auto-report-fully-drawn
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:51:9-53:36
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:9-54:36
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-33
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:13-33
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-57
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-57
 activity#com.unity3d.player.UnityPlayerActivity
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:9-76:20
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:9-77:20
 	android:screenOrientation
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:13-50
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:13-50
 	android:launchMode
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:13-44
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:61:13-44
 	android:hardwareAccelerated
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:13-48
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:13-48
 	android:exported
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:13-36
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:13-36
 	android:resizeableActivity
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:61:13-47
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:13-47
 	android:configChanges
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:13-194
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:13-194
 	android:theme
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:63:13-54
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:13-54
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-66
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:13-66
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:13-68:29
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:65:13-69:29
 category#android.intent.category.LAUNCHER
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:65:17-77
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:17-77
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:65:27-74
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:27-74
 action#android.intent.action.MAIN
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:67:17-69
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:68:17-69
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:67:25-66
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:68:25-66
 meta-data#unityplayer.UnityActivity
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:70:13-72:40
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:71:13-73:40
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:72:17-37
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:73:17-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:71:17-57
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:72:17-57
 meta-data#notch_support
-ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:73:13-75:40
+ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:74:13-76:40
 	android:value
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:75:17-37
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:76:17-37
 	android:name
-		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:74:17-45
+		ADDED from [:unityLibrary] C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:75:17-45

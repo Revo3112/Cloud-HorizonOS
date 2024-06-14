@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1366
     height: 701
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 103
+  controlID: 117
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 198
     height: 406
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 45
+  controlID: 66
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 46
+  controlID: 57
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -321,7 +321,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/HDR
+    - Assets/Images/VR/Page/pagelist
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -329,16 +329,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/HDR
+  - Assets/Images/VR/Page/pagelist
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\ngrok\Cloud - HorizonOS
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 5c5b0000
-    m_LastClickedID: 23388
-    m_ExpandedIDs: 00000000545b00005c5b00005e5b000000ca9a3bffffff7f
+    m_SelectedIDs: e85f0000
+    m_LastClickedID: 24552
+    m_ExpandedIDs: 00000000a25f0000a45f0000a65f0000c05f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -366,7 +366,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000545b0000
+    m_ExpandedIDs: 00000000a25f0000a45f0000a65f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -508,7 +508,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 7a57ffffc657ffffee58fffffa58ffff0859ffff425effff8e5effffba5fffffca5fffffdc5fffff4463ffff9063ffffd464ffffe064ffffee64ffff666affffb26affffda6bffffe66bfffff46bffff6e70ffffba70fffffe71ffff0a72ffff1872ffffce7affff1a7bffff627cffff727cffff847cffff6480ffffb080ffffd881ffffe481fffff281ffff9483ffff348bffff828bffffaa8cffffb68cffffc68cffff6890ffffb490ffff1e92ffff5092ffff8492fffff29affff409bffff849cffff909cffff9e9cffff26a2ffff78a2ffffa0a3ffffaca3ffffbaa3ffffe6a7ffff36a8ffff7aa9ffff86a9ffff94a9ffff9aadffffeeadffff36afffff46afffff58afffff6cb4ffffb8b4ffffe4b5fffff4b5ffff06b6ffff84b9ffffd4b9ffff1cbbffff2cbbffff3ebbffff42c5ffff8ec5ffffbac6ffffcac6ffffdcc6fffffad0ffffbed4ffff0cd5ffff34d6ffff40d6ffff4ed6ffff4edbffffa2dbffffcadcffffd6dcffffe4dcffffe2eaffff2eebffff76ecffff86ecffff98ecffff42f5ffff8ef5ffffd2f6ffffdef6fffff6f6ffff2cfbffffb25a00006e5e0000f660000038640000d86600001c6c00005a6c00008c720000c2720000f67500002a790000747a0000647d00009a7d00008288000072900000d0930000309700004c970000f49d0000109e0000
+      m_ExpandedIDs: 2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -927,9 +927,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 600, y: 173, z: 90}
+    m_Target: {x: 992, y: 173, z: 83.655495}
     speed: 2
-    m_Value: {x: 600, y: 173, z: 90}
+    m_Value: {x: 992, y: 173, z: 83.655495}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -979,9 +979,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 77.90399
+    m_Target: 74.330345
     speed: 2
-    m_Value: 81.57486
+    m_Value: 74.330345
   m_Ortho:
     m_Target: 0
     speed: 2

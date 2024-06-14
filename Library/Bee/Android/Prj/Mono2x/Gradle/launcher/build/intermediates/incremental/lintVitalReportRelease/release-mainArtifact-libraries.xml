@@ -16,4 +16,17 @@
       name="__local_aars__:C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
       jars="C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
       resolved="__local_aars__:C:\Users\ngrok\Cloud - HorizonOS\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name=":mediapipe_android:@aar"
+      jars="C:\Users\ngrok\.gradle\caches\transforms-3\fd6544e9917d886ad2b8c4ed98de84c6\transformed\mediapipe_android\jars\classes.jar"
+      resolved=":mediapipe_android:"
+      folder="C:\Users\ngrok\.gradle\caches\transforms-3\fd6544e9917d886ad2b8c4ed98de84c6\transformed\mediapipe_android"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
 </libraries>

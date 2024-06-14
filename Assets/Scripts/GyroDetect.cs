@@ -27,6 +27,11 @@ public class GyroDetect : MonoBehaviour
     private bool isFading = false;
     private Vector3 targetElementUIPosition;
 
+    // Variables for triple tap detection
+    private int tapCount = 0;
+    private float lastTapTime = 0f;
+    private const float tapDelay = 0.3f; // Time allowed between taps
+
     void Start()
     {
         gyroObj.SetActive(false); // inisiasi awal
@@ -92,6 +97,9 @@ public class GyroDetect : MonoBehaviour
         {
             StartCoroutine(FadeOutCanvasVR());
         }
+
+        // Detect triple tap
+        DetectTripleTap();
     }
 
     void DetectGyro()
@@ -155,9 +163,9 @@ public class GyroDetect : MonoBehaviour
         {
             backCam.Play();
             rightCam.texture = backCam; // Set WebCamTexture to rightCam
-            // Color color = rightCam.color;
-            // color.a = 0f;
-            // rightCam.color = color;
+            Color color = rightCam.color;
+            color.a = 0f;
+            rightCam.color = color;
             canvasCam.alpha = 1f; // Set canvasCam visible
             canvasCam.gameObject.SetActive(true);
         }
@@ -221,6 +229,66 @@ public class GyroDetect : MonoBehaviour
             UICam.targetTexture = uiRenderTexture;
             VRrightCam.texture = uiRenderTexture;
             VRleftCam.texture = VRrightCam.texture;
+        }
+    }
+
+    private void DetectTripleTap()
+    {
+        if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Ended)
+        {
+            if (Time.time - lastTapTime < tapDelay)
+            {
+                tapCount++;
+            }
+            else
+            {
+                tapCount = 1; // Reset to 1 tap if time between taps is too long
+            }
+
+            lastTapTime = Time.time;
+
+            if (tapCount == 3)
+            {
+                StartCoroutine(FadeInOutRightCam());
+                tapCount = 0; // Reset tap count after triple tap detected
+            }
+        }
+    }
+
+    private IEnumerator FadeInOutRightCam()
+    {
+        float duration = 1f; // Fade duration
+        float elapsed = 0f;
+
+        if (canvasCam.gameObject.activeSelf)
+        {
+            // Fade out rightCam
+            while (elapsed < duration)
+            {
+                elapsed += Time.deltaTime;
+                Color color = rightCam.color;
+                color.a = Mathf.Lerp(1f, 0f, elapsed / duration);
+                rightCam.color = color;
+                yield return null;
+            }
+
+            rightCam.color = new Color(rightCam.color.r, rightCam.color.g, rightCam.color.b, 0f); // Ensure full transparency
+        }
+        else
+        {
+            // Fade in rightCam
+            canvasCam.gameObject.SetActive(true);
+            elapsed = 0f; // Reset elapsed time
+            while (elapsed < duration)
+            {
+                elapsed += Time.deltaTime;
+                Color color = rightCam.color;
+                color.a = Mathf.Lerp(0f, 1f, elapsed / duration);
+                rightCam.color = color;
+                yield return null;
+            }
+
+            rightCam.color = new Color(rightCam.color.r, rightCam.color.g, rightCam.color.b, 1f); // Ensure full opacity
         }
     }
 }

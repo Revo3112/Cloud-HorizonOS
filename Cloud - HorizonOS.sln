@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediapipe.Tests.EditMode", "Mediapipe.Tests.EditMode.csproj", "{E2F62A78-DAC8-C2FD-830C-C98A50230434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediapipe.Runtime", "Mediapipe.Runtime.csproj", "{F6EEE170-553E-43F3-CF7D-1352A790B233}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1EC2783A-3136-7FE2-C725-F07B455454EE}"
 EndProject
 Global
@@ -9,6 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2F62A78-DAC8-C2FD-830C-C98A50230434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F62A78-DAC8-C2FD-830C-C98A50230434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F62A78-DAC8-C2FD-830C-C98A50230434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F62A78-DAC8-C2FD-830C-C98A50230434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EEE170-553E-43F3-CF7D-1352A790B233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EEE170-553E-43F3-CF7D-1352A790B233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EEE170-553E-43F3-CF7D-1352A790B233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EEE170-553E-43F3-CF7D-1352A790B233}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1EC2783A-3136-7FE2-C725-F07B455454EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1EC2783A-3136-7FE2-C725-F07B455454EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EC2783A-3136-7FE2-C725-F07B455454EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
